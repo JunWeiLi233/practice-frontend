@@ -1,0 +1,14 @@
+div{
+    background-color:rgb(243, 131, 131);
+    width: 100px;
+    height: 100px;
+    display:inline-block; /*into inline level*/
+    visibility: hidden; /*still takes place*/
+}
+
+span{
+    background-color:rgb(145, 145, 251);
+    width: 100px;
+    height: 100px;
+    display:block; /*into block level*/
+}

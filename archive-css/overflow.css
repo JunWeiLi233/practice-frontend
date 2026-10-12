@@ -1,0 +1,10 @@
+div{
+    border:2px solid;
+    height: 75px;
+    /* overflow:visible; you can see overflow */
+    /* overflow:hidden; you cant see overflow */
+    /* overflow:clip; you cant see overflow */
+    /* overflow-clip-margin:13px; you can see how many hidden overflow */
+    /* overflow:scroll; */
+    overflow:auto;
+}

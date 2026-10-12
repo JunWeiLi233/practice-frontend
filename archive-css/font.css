@@ -1,0 +1,15 @@
+@font-face{
+    src: url(Brocode/fonts/IBM_Plex_Serif/IBMPlexSerif-Bold.ttf);
+    font-family: IBM_font;
+}
+
+h1{
+    font-family: IBM_font, arial;
+}
+
+p{
+    font-family:"Playwrite CU Guides", cursive;
+    font-size:1.5em;
+    font-weight:bold;
+    font-style:italic;
+}
