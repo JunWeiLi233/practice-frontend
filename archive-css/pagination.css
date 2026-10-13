@@ -12,5 +12,10 @@
 .pagination a.active{
     background-color: rgb(140, 251, 140);
     font-weight:bold;
-    border-radius:10px;
+    border-radius:5px;
+}
+
+.pagination a:hover:not(.active){
+    background-color:grey;
+    border-radius:5px;
 }
